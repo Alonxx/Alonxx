@@ -9,8 +9,10 @@ I love challenges, adapt to changes, work as a team, and stay in #StudentModeAlw
 - 💻 &nbsp; HTML | CSS | JavaScript | React.js | Redux.js | Tailwind CSS
 - 🛢 &nbsp;  NodeJS | Express.js |Postgresql | Sequelize | MongoDB | Mongoose 
 
+<br/>
+
 <h3> 🤝🏻 Connect with Me </h3>
 
-www.Alonsodiaz.dev
-https://www.linkedin.com/in/alonsojesusdiaz/
-alonsodiazlip@gmail.com
+www.Alonsodiaz.dev<br/>
+https://www.linkedin.com/in/alonsojesusdiaz/<br/>
+alonsodiazlip@gmail.com<br/>
