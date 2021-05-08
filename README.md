@@ -3,6 +3,7 @@
 I'm Full Stack Developer.
 Lover of finances and investments 📈 and I currently reside in Argentina 🇦🇷.
 I love challenges, adapt to changes, work as a team, and stay in #StudentModeAlways📚
+<br/>
 
 <h3>🛠 Tech Stack</h3>
 
@@ -14,5 +15,7 @@ I love challenges, adapt to changes, work as a team, and stay in #StudentModeAlw
 <h3> 🤝🏻 Connect with Me </h3>
 
 www.Alonsodiaz.dev<br/>
+
 https://www.linkedin.com/in/alonsojesusdiaz/<br/>
+
 alonsodiazlip@gmail.com<br/>
