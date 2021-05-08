@@ -9,7 +9,8 @@ I love challenges, adapt to changes, work as a team, and stay in #StudentModeAlw
 - 💻 &nbsp; HTML | CSS | JavaScript | React.js | Redux.js | Tailwind CSS
 - 🛢 &nbsp;  NodeJS | Express.js |Postgresql | Sequelize | MongoDB | Mongoose 
 
-[![Alonxx GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alonxx&show_icons=true)](https://github.com/Alonxx)
+<h3> 🤝🏻 Connect with Me </h3>
 
-[![](https://komarev.com/ghpvc/?username=Alonxx&color=blue&label=Profile%20Views)](https://github.com/Alonxx/Alonxx)
-[![](https://img.shields.io/github/followers/Alonxx?label=GitHub%20Followers)](https://github.com/Alonxx)
+www.Alonsodiaz.dev
+https://www.linkedin.com/in/alonsojesusdiaz/
+alonsodiazlip@gmail.com
