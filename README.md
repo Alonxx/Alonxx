@@ -14,7 +14,11 @@ I love challenges, adapt to changes, work as a team, and stay in #StudentModeAlw
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-www.Alonsodiaz.dev<br/>
+	<a href="www.Alonsodiaz.dev" target='_blank' rel='noreferrer'>
+				www.Alonsodiaz.dev					
+	</a>
+
+<br/>
 
 https://www.linkedin.com/in/alonsojesusdiaz/<br/>
 
