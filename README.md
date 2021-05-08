@@ -14,9 +14,7 @@ I love challenges, adapt to changes, work as a team, and stay in #StudentModeAlw
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-	<a href="www.Alonsodiaz.dev" target='_blank' rel='noreferrer'>
-				www.Alonsodiaz.dev					
-	</a>
+<a href = "www.alonsodiaz.dev">www.alonsodiaz.dev</a>
 
 <br/>
 
