@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Alonso Diaz.</h2>
 
-I'm Full Stack Developer.
+I'm Full Stack Developer.<br/>
 Lover of finances and investments 📈 and I currently reside in Argentina 🇦🇷.
 I love challenges, adapt to changes, work as a team, and stay in #StudentModeAlways📚
 <br/>
