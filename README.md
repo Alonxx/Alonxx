@@ -26,6 +26,3 @@ I love challenges, adapt to changes, work as a team, and stay in #StudentModeAlw
 
 - alonsodiazlip@gmail.com<br/>
 
-<p align="center">
-<img src="https://images.vexels.com/media/users/3/145819/isolated/preview/486c34cf5b3b4badd52bc427dbeb44a1-dibujos-animados-de-cohetes-by-vexels.png">
-</p>
