@@ -26,4 +26,6 @@ I love challenges, adapt to changes, work as a team, and stay in #StudentModeAlw
 
 - alonsodiazlip@gmail.com<br/>
 
-<img src="https://freepikpsd.com/wp-content/uploads/2019/10/footer-png-4.png" width = "1000">
+<p align="center">
+<img src="https://images.vexels.com/media/users/3/145819/isolated/preview/486c34cf5b3b4badd52bc427dbeb44a1-dibujos-animados-de-cohetes-by-vexels.png">
+</p>
