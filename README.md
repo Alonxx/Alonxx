@@ -24,5 +24,3 @@ I love challenges, adapt to changes, work as a team, and stay in #StudentModeAlw
 - https://www.linkedin.com/in/alonsojesusdiaz/<br/>
 
 - alonsodiazlip@gmail.com<br/>
-
-<img src= "https://tufuturo.cl/wp-content/uploads/2020/02/Blog-Post-Graphic-How-to-design-the-perfect-MMS_gif.gif" >
