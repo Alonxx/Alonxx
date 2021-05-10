@@ -25,3 +25,4 @@ I love challenges, adapt to changes, work as a team, and stay in #StudentModeAlw
 
 - alonsodiazlip@gmail.com<br/>
 
+<img src= "https://tufuturo.cl/wp-content/uploads/2020/02/Blog-Post-Graphic-How-to-design-the-perfect-MMS_gif.gif" >
