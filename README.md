@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Alonso Diaz.</h2>
+<h2> Hey there! I'm Alonso Diaz👋</h2>
 
 I'm Full Stack Developer.<br/>
 Lover of finances and investments 📈 and I currently reside in Argentina 🇦🇷.
