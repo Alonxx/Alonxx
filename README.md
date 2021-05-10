@@ -24,4 +24,4 @@ I love challenges, adapt to changes, work as a team, and stay in #StudentModeAlw
 - https://www.linkedin.com/in/alonsojesusdiaz/<br/>
 
 - alonsodiazlip@gmail.com<br/>
-<img src="https://gifdownload.net/wp-content/uploads/2019/02/footer-gif-8.gif">
+
