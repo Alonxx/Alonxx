@@ -22,7 +22,7 @@ I'm a team player who likes challenges and adapts to changes.  #StudentModeAlway
 [<h3> Pokemon Companion App </h3>](https://github.com/Alonxx/Pokemon-Companion-App/)
 
 <p align="center">
-<img src= "https://www.alonsodiaz.dev/images/carrousel/pokemonapp/ladingpage.png" width= "100%">
+<img src= "https://www.alonsodiaz.dev/images/carrousel/pokemonapp/ladingpage.png" width= "70%">
                                                                                           
  [<h4>You can see it by clicking here</h4>](https://pokemon-companion-app.herokuapp.com/)
  
@@ -32,7 +32,7 @@ I'm a team player who likes challenges and adapts to changes.  #StudentModeAlway
 [<h3> The Quizz App</h3>](https://github.com/Alonxx/quizzapp/)
  
  <p align="center">
-<img src= "https://www.alonsodiaz.dev/images/carrousel/thequizzapp/quizz.png" width= "100%">
+<img src= "https://www.alonsodiaz.dev/images/carrousel/thequizzapp/quizz.png" width= "70%">
  
   [<h4>You can see it by clicking here</h4>](https://alonxx.github.io/quizzapp/)
   
