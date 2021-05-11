@@ -10,14 +10,42 @@ I'm a team player who likes challenges and adapts to changes.  #StudentModeAlway
 
 <br/>
 
-<h3>🛠 Tech Stack</h3>
+<h2>Skills</h2>
 
 - 💻 &nbsp; HTML | CSS | JavaScript | React.js | Redux.js | Tailwind CSS
 - 🛢 &nbsp;  NodeJS | Express.js |Postgresql | Sequelize | MongoDB | Mongoose 
 
 <br/>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h2> Projects </h2>
+
+[<h3> Pokemon Companion App </h3>](https://github.com/Alonxx/Pokemon-Companion-App/)
+
+<p align="center">
+<img src= "https://www.alonsodiaz.dev/images/carrousel/pokemonapp/ladingpage.png" width= "100%">
+                                                                                          
+ [<h4>You can see it by clicking here</h4>](https://pokemon-companion-app.herokuapp.com/)
+ 
+ </p>
+<hr></hr>
+ 
+[<h3> The Quizz App</h3>](https://github.com/Alonxx/quizzapp/)
+ 
+ <p align="center">
+<img src= "https://www.alonsodiaz.dev/images/carrousel/thequizzapp/quizz.png" width= "100%">
+ 
+  [<h4>You can see it by clicking here</h4>](https://alonxx.github.io/quizzapp/)
+  
+ </p>
+ <hr></hr>
+
+
+
+
+
+
+
+<h2> 🤝🏻 Connect with Me </h2>
  
 - https://alonsodiaz.dev/<br/>
 
