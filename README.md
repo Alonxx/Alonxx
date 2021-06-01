@@ -26,7 +26,7 @@ I'm a team player who likes challenges and adapts to changes.  #StudentModeAlway
  
  Web application to search, obtain information and add Pokemons. Created with React.js, Redux, Express, Sequelize, PostgreSQL
                                                                                           
- [<h4>You can see it by clicking here</h4>](https://pokemon-companion-app.herokuapp.com/)
+ [<h4>You can see it by clicking here</h4>](https://pokemon-companionapp.herokuapp.com/)
  
  </p>
 <hr></hr>
